@@ -1,12 +1,12 @@
-# CouchDB Twitter Data Analyzing - Assignment #2
+# MongoDB Twitter Data Analyzing - Assignment #2
 
 #### Author: Alexander Falk
 #### Date: 11-02-2018
-#### Database: CouchDB
+#### Database: MongoDB
 #### Language: GOLang
 
 -----
-####Questions: 
+#### Questions: 
 * How many Twitter users are in the database?
 
 * Which Twitter users link the most to other Twitter users? (Provide the top ten.)
