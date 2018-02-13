@@ -7,12 +7,57 @@
 
 -----
 #### Questions: 
-* How many Twitter users are in the database?
+* How many Twitter users are in the database?  
+Count:  503582  
+* Which Twitter users link the most to other Twitter users? (Provide the top ten.)  
+lost_dog has tagged: 549 times  
+tweetpet has tagged: 310 times  
+mcraddictal has tagged: 181 times  
+nuttychris has tagged: 178 times  
+tsarnick has tagged: 156 times  
+* Who is are the most mentioned Twitter users? (Provide the top five.) - This algorithm is slow  
+tommcfly, 2139  
+mileycyrus, 2002  
+ddlovato, 1828  
+DavidArchie, 771  
+DonnieWahlberg, 649  
+* Who are the most active Twitter users (top ten)?  
+lost_dog has been most active with: 549 tweets  
+tweetpet has been most active with: 310 tweets  
+webwoke has been most active with: 264 tweets  
+mcraddictal has been most active with: 238 tweets  
+wowlew has been most active with: 210 tweets  
+nuttychris has been most active with: 199 tweets  
+SallytheShizzle has been most active with: 189 tweets  
+tsarnick has been most active with: 158 tweets  
+Dogbook has been most active with: 151 tweets  
+StDAY has been most active with: 150 tweets  
 
-* Which Twitter users link the most to other Twitter users? (Provide the top ten.)
-* Who is are the most mentioned Twitter users? (Provide the top five.)
-* Who are the most active Twitter users (top ten)?
-* Who are the five most grumpy (most negative tweets) and the most happy (most positive tweets)? (Provide five users for each group)
+* Who are the five most grumpy (most negative tweets) and the most happy (most positive tweets)? (Provide five users for each group)  
+
+***GRUMPY***  
+webwoke has made: 37 grumpy tweets. Rawr  
+SallytheShizzle has made: 28 grumpy tweets. Rawr  
+Spidersamm has made: 23 grumpy tweets. Rawr  
+luckygnahhh has made: 21 grumpy tweets. Rawr  
+D_AMAZIN has made: 21 grumpy tweets. Rawr  
+risha_ has made: 16 grumpy tweets. Rawr  
+tsarnick has made: 15 grumpy tweets. Rawr  
+lina_luka has made: 15 grumpy tweets. Rawr  
+mrs_mcsupergirl has made: 15 grumpy tweets. Rawr  
+mcraddictal has made: 14 grumpy tweets. Rawr  
+  
+***HAPPY***  
+iHomeTech has made: 57  happy tweets! Weeee  
+sebby_peek has made: 49  happy tweets! Weeee  
+sierrabardot has made: 32  happy tweets! Weeee  
+jessa_hugz has made: 29  happy tweets! Weeee  
+Jeff_Hardyfan has made: 27  happy tweets! Weeee  
+thalovebug has made: 26  happy tweets! Weeee  
+JBnVFCLover786 has made: 25  happy tweets! Weeee  
+nuttychris has made: 24  happy tweets! Weeee  
+JonaticaGirl92 has made: 23  happy tweets! Weeee  
+Djalfy has made: 23  happy tweets! Weeee  
 
 --------
 #### Prerequisites
