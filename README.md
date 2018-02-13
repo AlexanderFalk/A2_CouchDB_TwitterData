@@ -25,6 +25,8 @@ When the command has been run, the data will be modified and made ready for inpu
 
 It will take a minute to insert all the data, but when that is done, you're ready to use the program.  
 
+PLEASE REMEMBER TO INSERT YOUR OWN LOCATION OF YOUR MONGODB INSTANCE INTO THE twitter.go FILE. SCROLL DOWN TO THE END OF THE FILE AND INSERT YOUR LOCATION. Probably something like: localhost:27017
+
 #### Usage
 Clone the repository, open a CMD or Terminal, and navigate to the repository. When you're located at the repository, fire the below command:  
 ``` go build twitter.go ```
